@@ -1,1 +1,3 @@
 # gitConf
+//read me file 
+//-------------
